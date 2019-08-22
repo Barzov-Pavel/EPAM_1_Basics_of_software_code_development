@@ -1,4 +1,7 @@
 
+// 3. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+// ((sin x + cos y) / (cos x - sin y)) * tg xy
+
 public class Task13 {
 
     public static void main(String[] args) {

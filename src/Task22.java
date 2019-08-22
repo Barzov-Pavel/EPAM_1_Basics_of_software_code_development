@@ -1,4 +1,6 @@
 
+// 2. Найти max{min(a, b), min(c, d)}.
+
 public class Task22 {
 
     public static void main(String[] args) {

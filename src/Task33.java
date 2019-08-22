@@ -1,4 +1,6 @@
 
+// 3. Найти сумму квадратов первых ста чисел.
+
 public class Task33 {
 
     public static void main(String[] args) {

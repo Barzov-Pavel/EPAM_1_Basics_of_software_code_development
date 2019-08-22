@@ -1,5 +1,7 @@
+
+// 8. Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.
+
 import java.util.HashSet;
-import java.util.Set;
 
 public class Task38 {
 

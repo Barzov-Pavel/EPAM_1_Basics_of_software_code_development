@@ -1,4 +1,8 @@
 
+// 2. Вычислить значения функции на отрезке [а,b] c шагом h:
+// x, x > 2;
+// -x, x <=2
+
 public class Task32 {
 
     public static void main(String[] args) {
